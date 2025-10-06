@@ -158,7 +158,7 @@ clarinet check- **Wallet Integration**: Connect with Hiro Wallet using @stacks/c
 
 ### Airtime Functions
 
-The heart of this dApp is `contracts/stream.clar` — 366 lines of Clarity code handling:- `create-airtime-plan`: Create a new recurring airtime plan
+
 
 - `claim-airtime`: Customer claims their scheduled airtime payout
 
@@ -195,15 +195,6 @@ Project started during the LearnWeb3 Stacks track.
 (cancel-airtime plan-id)
 ```
 
-## Tech Stack
-
-- **Smart Contract**: Clarity (Stacks blockchain)
-- **Frontend**: React 18 + TypeScript + Vite
-- **Wallet**: @stacks/connect (Hiro/Xverse integration)
-- **Styling**: Custom CSS (Nigerian colors: black, orange, army-green)
-- **3D Graphics**: Three.js for animated background
-- **Testing**: Vitest + Clarinet SDK
-
 
 ## Deployment
 
@@ -223,11 +214,7 @@ VITE_NETWORK=testnet
 pnpm run dev
 ```
 
-### To Mainnet
 
-Same process but use `default.mainnet-plan.yaml` and set `VITE_NETWORK=mainnet`.
-
-**Warning**: Test thoroughly on testnet first. Mainnet transactions use real STX.
 
 ## Use Cases (Real Life)
 
