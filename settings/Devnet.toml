@@ -1,0 +1,16 @@
+[network]
+name = "devnet"
+stacks_node_rpc_address = "http://127.0.0.1:20443"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "exclude lounge select wrestle crowd banner palm crowd orange hobby fitness table fiction addict coin donor public dirt fatigue slow ignore exile element limit"
+
+[accounts.wallet_1]
+mnemonic = "twice kind fence tip hidden tilt action fragile skin nothing glory cousin green tomorrow spring wrist shed math olympic multiply hip blue scout claw"
+
+[accounts.wallet_2]
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid peace spawn twice guilt pave pen trash pretty park cube fragile unaware remain midnight betray rebuild"
+
+[accounts.wallet_3]
+mnemonic = "hold excess usual excess ring elephant install account glad dry fragile donkey gaze humble truck breeze nation gasp vacuum limb head keep delay hospital"
