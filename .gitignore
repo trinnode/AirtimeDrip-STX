@@ -34,3 +34,4 @@ out
 .env*
 
 Testnet.toml
+HOW_I_DID_IT.md
