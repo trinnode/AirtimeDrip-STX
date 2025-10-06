@@ -1,6 +1,7 @@
 # STX Airtime Drip 💰# STX Streaming & Airtime Drip
 
-
+To simulate, visit `https://stx-airtime-drip.vercel.app/` 
+Use this address `STX9BA8A6BQBWTZJ62DWZ6G1QQAAHZKKC7R46JE8` connect wallet to create your plan
 
 > Automate airtime payments on the Stacks blockchain. No wahala, no POS queues.I built this to drip Stacks (STX) safely from one person to another. It feels like how we do ajo/esusu back home, just automated on the blockchain. **Now with prepaid airtime drip for Nigerian networks!**
 
